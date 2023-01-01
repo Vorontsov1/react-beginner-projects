@@ -7,8 +7,8 @@ export const Skeleton = () => (
     width={320}
     height={50}
     viewBox="0 0 320 50"
-    backgroundColor="#f3f3f3"
-    foregroundColor="#ecebeb">
+    backgroundColor="#ee9643"
+    foregroundColor="#31bae4">
     <circle cx="25" cy="25" r="25" />
     <rect x="64" y="0" rx="6" ry="6" width="137" height="25" />
     <rect x="64" y="32" rx="6" ry="6" width="183" height="15" />
